@@ -11,4 +11,4 @@ This spreadsheet highlights the "most awesome"<sup>TM</sup> datasets for each sp
 ### other sheets
 Other g-sheets tailored for specific purposes:
 * [Dan's IMaRS ERDDAP dataset technical details](https://docs.google.com/spreadsheets/d/18fJk0qeZiis7UMdJ0QjfMAcVJGco2TpqtRMaDSt9rWA/edit?usp=sharing) 
-* [Ben+Dan's Climate Vulnerability Indicators for Sanctuaries[(https://docs.google.com/spreadsheets/d/1H8JGwdVM5YCZXPhcVLNpSvITlxCraDKUwMVpr_5Rn3Q/edit?usp=sharing)
+* [Ben+Dan's Climate Vulnerability Indicators for Sanctuaries](https://docs.google.com/spreadsheets/d/1H8JGwdVM5YCZXPhcVLNpSvITlxCraDKUwMVpr_5Rn3Q/edit?usp=sharing)
