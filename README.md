@@ -3,7 +3,7 @@ Curated list of datasets available via ERDDAP.
 
 --------------------
 
-## [Master g-sheet](https://docs.google.com/spreadsheets/d/10vbzAxnexaF9vXJckQh03fNHWzsFaHNt9YkUmJAfnKo/edit?usp=sharing)
+## [Master g-sheet](https://docs.google.com/spreadsheets/d/119jgIIhHq0qwxD9fEiOqomZCE1pM9o_zTT8I2uARLxg/edit?usp=sharing)
 This spreadsheet highlights the "most awesome"<sup>TM</sup> datasets for each spatiotemporal parameter.
 
 -------------------
